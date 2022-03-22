@@ -10,7 +10,7 @@
   inputs.src-io-isense-master.flake = false;
   inputs.src-io-isense-master.ref   = "refs/heads/master";
   inputs.src-io-isense-master.owner = "nimious";
-  inputs.src-io-isense-master.repo  = "io-isense.git";
+  inputs.src-io-isense-master.repo  = "io-isense";
   inputs.src-io-isense-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
