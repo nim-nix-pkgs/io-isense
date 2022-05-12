@@ -7,8 +7,17 @@
   "license": "MIT",
   "web": "https://github.com/nimious/io-isense",
   "refs": [
-    "fatal: unable to access 'https://github.com/nimious/io-isense.git/': Could not resolve host: github.com",
+    "refs/heads/master",
     ""
   ],
-  "heads": []
+  "heads": [
+    {
+      "description": "Obsolete - please use isense instead!",
+      "license": "MIT",
+      "name": "io-isense",
+      "ref": "refs/heads/master",
+      "url": "https://github.com/nimious/io-isense.git",
+      "version": "master"
+    }
+  ]
 }
