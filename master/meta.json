@@ -1,8 +1,0 @@
-{
-  "description": "Obsolete - please use isense instead!",
-  "license": "MIT",
-  "name": "io-isense",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/nimious/io-isense.git",
-  "version": "master"
-}
